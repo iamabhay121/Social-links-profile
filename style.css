@@ -31,7 +31,8 @@ body {
   border: 2px solid hsl(0, 0%, 20%);
   border-radius: 20px;
   background-color: hsl(0, 0%, 12%);
-  height: 70vh;
+  padding-bottom: 3rem;
+  height: auto;
   width: 50vh;
   color: white;
   text-align: center;
